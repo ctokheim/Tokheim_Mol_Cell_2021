@@ -1,0 +1,15 @@
+me: UPS_jupyter
+channels:
+    - bioconda
+    - defaults
+dependencies:
+    - numpy
+    - scipy
+    - matplotlib
+    - matplotlib-venn
+    - pandas
+    - pyyaml
+    - snakemake
+    - statsmodels
+    - r
+    - rpy2
